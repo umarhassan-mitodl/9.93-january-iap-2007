@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description, an introduction
   to the marathon moral reasoning laboratory, and a list of sample dilemmas.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

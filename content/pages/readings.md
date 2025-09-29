@@ -2,6 +2,8 @@
 content_type: page
 description: This section lists optional readings designed to provide background information
   about topics in the field of moral reasoning.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -23,6 +25,6 @@ Fischer, John M., and Mark Ravizza. _Ethics: Problems and Principles_. Belmont, 
 
 Wright, Robert. _The Moral Animal: Why We Are the Way We Are_. New York, NY: Random House, 1995. ISBN: 0679763996.
 
-Saxe, Rebecca. "{{% resource_link "e06010c8-4f4d-44a6-8a6f-e098fcc13231" "Do the Right Thing: Cognitive Science's Search for a Common Morality" %}}." _Boston Review_ (Sep/Oct 2005).
+Saxe, Rebecca. "[Do the Right Thing: Cognitive Science's Search for a Common Morality](http://www.bostonreview.net/rebecca-saxe-common-morality-cognitive-science)." _Boston Review_ (Sep/Oct 2005).
 
 Mikhail, John. "Universal Moral Grammar: Theory, Evidence, and the Future." _Trends in Cognitive Sciences_ 11 (2007): 143-152.
